@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+###Basic Features to Implement
+User Authentication: Allow users to sign up, log in, and manage their sessions.
+File Upload and Download: Enable users to upload files to the cloud and download them as needed.
+File Preview: Provide a way for users to preview their files directly in the app.
+File Organization: Implement folders and subfolders for users to organize their files.
+Search Functionality: Allow users to search for files and folders by name.
+Sharing Files: Enable users to share files with others, either via a link or by inviting users directly.
+Responsive Design: Ensure the app works well on both desktop and mobile devices.
+
+
+React: The core library for building your user interface. Its component-based architecture will help you create reusable and maintainable code.
+
+Redux or Context API: For state management, especially if your application grows in complexity. These tools will help you manage the state of your application efficiently.
+
+React Router: To handle navigation and routing within your application. It will allow you to create a multi-page experience within a single-page app.
+
+Firebase: A great backend-as-a-service option for authentication, real-time database, and storage. Firebase’s ease of integration with React makes it a popular choice for many developers.
+
+Material-UI: For a modern and responsive user interface. Material-UI provides a set of React components that implement Google's Material Design.
